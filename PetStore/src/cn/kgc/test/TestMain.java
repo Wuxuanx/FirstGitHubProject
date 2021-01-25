@@ -97,7 +97,7 @@ public class TestMain{
 		
 		
 		
-	
+	//修改测试，这是第二次提交测试数据
 		
 //		System.out.println("请选择您的登录身份,宠物主人请输入1, 宠物商店主人请输入2:");
 //		int choose = scanner.nextInt();
